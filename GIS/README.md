@@ -1,5 +1,6 @@
 # Geographic-Information-System-Mysql-PHP
 Manajemen Sistem Informasi Geografis (Create Read Update Delete)
+Copyright: Mahar Catur Ferniza
 
 ## Language Included
     1. PHP version: 5.6.23
